@@ -4,7 +4,7 @@ View the accompanying tutorial [article](https://tomgregory.com/build-gradle-pro
 
 ## Overview
 
-This project explores the different ways to build Gradle projects using GitHub actions.hhhhhhhhhhhhhhfghjjjjjj
+This project explores the different ways to build Gradle projects using GitHub actions.fttttttttttttttttt
 
 1. No caching
 2. Using the *setup-java* Gradle caching mechanism
